@@ -1,10 +1,11 @@
-.App {
-  text-align: center;
-}
-
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 70px;
   padding: 20px;
   color: white;
+}
+
+.Pokemon-List {
+  max-height: 700px;
+  overflow-y: auto;
 }
